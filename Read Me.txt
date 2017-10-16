@@ -1,0 +1,5 @@
+Run from command line in 'Networking Project' directory. Start Server first, and
+then the Client.
+
+To start Server - java Server <portNumber>.
+To start Client - java Client <hostName> <portNumber>.
